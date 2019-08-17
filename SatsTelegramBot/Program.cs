@@ -6,7 +6,7 @@ namespace SatsTelegramBot
 {
     public class Program
     {
-        private static readonly TelegramBotClient Bot = new TelegramBotClient("805960903:AAGnFRDO08e0R7mGL_UcyMy0Kz9UJZuHDEw");
+        private static readonly TelegramBotClient Bot = new TelegramBotClient("");
         
         static void Main(string[] args)
         {
